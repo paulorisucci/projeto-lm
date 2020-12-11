@@ -14,3 +14,7 @@ Os arquivos html das pages secundárias estão organizados dentro do arquivo "pa
 
 Quanto às tecnologias utilizadas, cada page foi organizada utilizando diversas tags semânticas, div's genéricas, classes e IDs. A estilização se deu por meio de CSS puro, sem o uso de frameworks ou linguagens de script, através de layouts como grid e flexbox, atributos de posicionamento, estilização de texto, estilização de formulário e de imagens através de propriedades básicas (width, font-size, color, background-color, etc). Por fim, foi adicionada uma animação dentro da página de cada país, que simula uma "cortina", que se abre para a apresentação do conteúdo da tour.
 
+ - Contato da equipe de produção:
+ 
+Paulo Elias Risucci da Silva - e-mail: paulorisucci@gmail.com
+Pedro da Costa Cavalcanti - e-mail: pedrinho.costa07@hotmail.com
