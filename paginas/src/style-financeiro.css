@@ -195,14 +195,6 @@ footer a:link, a:visited{
     position: fixed;
 }
 */
-.tela-inicial{
-    position: fixed;
-    background-color: #c5a880 ;
-    width: 100%;
-    height: 100%;
-    animation: transparente 4s ease-in-out forwards;
-    
-}
 /*
 @keyframes spinner {
     to {
@@ -212,15 +204,6 @@ footer a:link, a:visited{
     }
     
 }*/
-
-@keyframes transparente{
-    to {
-        height: 0px;
-        transform: unset;
-         background-color: transparent;
-         perspective-origin: center;
-    }
-}
 
 @keyframes aparecer{
     to{
@@ -236,13 +219,13 @@ header{
 span.logo{
     top: .1em;
     left: .1em;
-    animation: aparecer 4s normal forwards;
+    animation: aparecer .7s normal forwards;
 }
 span.secure{
     top: .1em;
     right: .1em;
     text-align: center;
-    animation: aparecer 4s normal forwards;
+    animation: aparecer 1s normal forwards;
 }
     form{
     display: grid;
