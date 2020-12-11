@@ -3,14 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Financeiro</title>
+    <title>Payment</title>
     <link rel="stylesheet" href="../src/style-financeiro.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
 </head>
 <body>
-    <div class="tela-inicial">
-        <!--<div class="spinner"></div>-->
-    </div>
     <div class="topo"><a href="#topo"><i class="fas fa-arrow-alt-circle-up"></i></a></div>
     <div class="voltar"> <a href="../../index.html"> <i class="fas fa-arrow-alt-circle-left"></i></a></div>
     <header id="topo">
@@ -29,12 +26,12 @@
     </header>
     <main>
         <div class="form">
-            <form method="POST" action="../../index.html">
+            <form method="POST" action="#">
                 <div class="opcoes">
                     <h1>Tour duration</h1>
                     <div>
                         <label for="7d">7 days</label>
-                        <input type="radio" name="duration" value="7" id="7d">    
+                        <input type="radio" name="duration" value="7" id="7d" checked>    
                     </div>
                     <div>
                         <label for="14d">14 days</label> 
@@ -81,8 +78,8 @@
                     </select>
                 </div>
                 <div class="CPF">
-                    <label for="cpf">CPF</label> <br>
-                    <input type="text" placeholder="xxx.xxx.xxx-xx" required>  
+                    <label for="cpf">SSN</label> <br>
+                    <input type="text" placeholder="XXX-XX-XXXX" required>  
                 </div>
                 <div class="pessoal">
                     <div>
