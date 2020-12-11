@@ -127,6 +127,10 @@ div.link{
     order: 2;
 }
 
+.financeiro{
+    order: 3;
+}
+
 .bottom {
     text-align:center;
     padding: 1em;
