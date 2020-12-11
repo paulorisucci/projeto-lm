@@ -200,7 +200,7 @@ footer a:link, a:visited{
     background-color: #c5a880 ;
     width: 100%;
     height: 100%;
-    animation: transparente 4s ease-in-out forwards;;
+    animation: transparente 4s ease-in-out forwards;
     
 }
 /*
@@ -226,4 +226,37 @@ footer a:link, a:visited{
     to{
         color: #532e1c;
     }
+}
+
+@media(max-width: 650px){
+    
+header{
+    margin-bottom: 1em;
+}
+span.logo{
+    top: .1em;
+    left: .1em;
+    animation: aparecer 4s normal forwards;
+}
+span.secure{
+    top: .1em;
+    right: .1em;
+    text-align: center;
+    animation: aparecer 4s normal forwards;
+}
+    form{
+    display: grid;
+    grid-template-columns: repeat(1, 100%);
+    justify-content: space-around;
+    grid-template-areas: "opcoes";
+    }
+    main{
+        padding: 0;
+    }
+    
+div.pessoal{
+    display: grid;
+    grid-template-columns: repeat(1, 100%);
+    gap: 1em;
+}
 }
