@@ -17,4 +17,5 @@ Quanto às tecnologias utilizadas, cada page foi organizada utilizando diversas 
  - Contato da equipe de produção:
  
 Paulo Elias Risucci da Silva - e-mail: paulorisucci@gmail.com |
-Pedro da Costa Cavalcanti - e-mail: pedrinho.costa07@hotmail.com
+Pedro da Costa Cavalcanti - e-mail: pedrinho.costa07@hotmail.com |
+Álefe Daniel da Silva Cosendey - alefecdaniel@gmail.com
