@@ -10,7 +10,7 @@ Caso o possível cliente demonstre interesse em uma tour específica, existe a o
 Para oferecer uma visitação agradável, cada página estática foi construída utilizando como base uma paleta de cores única e específica.
 
 Quanto à organização dos arquivos, foram feitas 5 páginas HTML no total, cada uma possuindo um arquivo CSS único. O arquivo CSS da página index se encontra dentro da pasta "css" e se chama "main.css". O index também usa diversas fotos, que estão dentro dos arquivos "imagens" e "imgs".
-Os arquivos html das pages secundárias estão organizados dentro do arquivo "paginas", cada um contendo sua pasta específica, com um conjunto de imagens dentro de um arquivo "img". Por fim, os arquivos CSS desses estão armazenados dentro da pasta "src".
+Os arquivos html das pages secundárias estão organizados dentro do arquivo "paginas", cada um contendo sua pasta específica, com um conjunto de imagens dentro de um arquivo "img". Por fim, os arquivos CSS desses estão armazenados dentro da pasta "src", sendo um CSS genérico que define o layout de todas as páginas secundárias, chamado "layout-pages.css", e um CSS específico para estilização específica de cada país.
 
 Quanto às tecnologias utilizadas, cada page foi organizada utilizando diversas tags semânticas, div's genéricas, classes e IDs. A estilização se deu por meio de CSS puro, sem o uso de frameworks ou linguagens de script, através de layouts como grid e flexbox, atributos de posicionamento, estilização de texto, estilização de formulário e de imagens através de propriedades básicas (width, font-size, color, background-color, etc). Por fim, foi adicionada uma animação dentro da página de cada país, que simula uma "cortina", que se abre para a apresentação do conteúdo da tour.
 
