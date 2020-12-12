@@ -1,4 +1,4 @@
-Este é um projeto realizado para a disciplina de Linguagem de Marcação do curso de Tecnologia em Sistemas para Internet do Instituto Federal de João Pessoa
+Este é um projeto realizado para a disciplina de Linguagem de Marcação do curso de Tecnologia em Sistemas para Internet do Instituto Federal da Paraíba
 (IFPB) no primeiro período.
 O projeto consiste na confecção de um site estático utilizando as tecnologias HTML e CSS, com a temática livre.
 A proposta escolhida pelo grupo se trata da simulação de um site feito para uma empresa de tours turísticas imaginária, 
